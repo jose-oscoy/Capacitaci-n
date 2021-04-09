@@ -1,0 +1,45 @@
+This is the first trial with vim editor on the deveolpment equipment on Ingeaa
+
+Recall to review which mode is set (Esc) Normal or (i) Insert
+
+Actually, you can only use h,k,l,j if there is text or spaces to move
+
+Recall on the normal(Esc) mode you can easily move through the text.
+
+        To displace the cursor:
+
+        - Typing "w" you can easily move forward to the start of the next word.
+        - Typing "b" you can easily move backwards to the beginning of the current word.
+        - Typing "e" you can easily move forward to the end of the next word.
+        - Besides, you can type the number# before each command to move faster to an specific position.
+        - "%" let you t identify the end or beginning of a pair of parentheses, curly braces or brackets.
+        - You can move to the beginning of a line with 0 and move to the end with $.
+        - You can move to the beginning of the text typing "gg" or the end with "G". You can find an specific line adding a number # before typing "G".
+
+        To write or modify the text faster:
+
+        - Typing any character or word between the number of times, "i" command and the "Esc" command you can write it repeatdly.
+        E.g. 22io Esc =  ooooooooooooooooo
+	- You can add lines below the text with "o" command. To add lines above use "O" command.
+	- To delete characters you can use "x" command to erase forward and the "X" command to erase backwards.
+	- To replace an specific character, you can place the cursor below it and type "r" command following by the wanted change.
+	- You can delete but saving on the clipboard at the same time using "d" command. It can be used with the displacing commands. 
+	- After deleting with "d" command, you can paste it where the cursor is placed, we use "p" command.
+
+        To find a character or word:
+
+        -Easily you can search on the same line any character with f (forward) and F(backwards). This can be setted also with a number prefix.
+        -To find an specific word in the text, you can place the cursor on it and type "*" to move forward to next match. Typing "#" to do the same but backwards.
+	-Another method to find an specific match is to use / an type what is needed. If there are several coincidences, you can move forward typing "n" and backward with "N".
+	
+	You can repeat the previous operation on the normal mode (Esc) with "." command.
+
+	To undo any operation you can use "u" command. Typing "Ctrl + r" will redo the operations. Typing "Ctrl + z" will close vim without saving.
+
+	To save, type ":w".
+
+	Typing ":q" to close the current window and ":qa" to exit vim WITHOUT SAVING.
+
+There is an additional mode called "visual mode" where is possible to select the text with the displacing commands. To enter, type "v" and then use the commands you need as the ones on the Normal (Esc) mode.    
+
+	 
