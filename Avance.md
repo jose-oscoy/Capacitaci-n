@@ -33,5 +33,7 @@ Propuesta para ir documentando avances durante las siguientes semanas.
   - Evidencias clave:
   
     - 12-04 Conexión a terminal speedface por medio de cable ethernet a la dirección IP 0.0.0.0.
+  
+  - 
 
     
