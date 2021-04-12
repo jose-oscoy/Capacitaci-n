@@ -19,9 +19,9 @@ Propuesta para ir documentando avances durante las siguientes semanas.
       - VirtualBox + Fedora 33 (Workstation Edition) 64-bit
         - VIM - Vi IMproved 8.2
         - NodeJS - v14,6.0
-
-   Actividades clave:
-
+       
+  - Evidencias clave:
+  
     - 09-04 Repaso completo de los comandos de vim más importantes. Se completo un [resumen](./vimTest.txt) directo desde la terminal con las funciones más importantes de acuerdo al tutorial en linea de [Vim](https://www.openvim.com/).
 
 - Semana 2: Objetivos:
@@ -29,3 +29,9 @@ Propuesta para ir documentando avances durante las siguientes semanas.
   - Comprender las principales diferencias entre el sistema SW3000 y SWCX para comenzar a diseñar los componentes a construir.
   - Dominar los comandos basicos y funciones para  la gestion de bases de datosdesde MySQL Server y My SQL Studio. 
   - Enteder la comunicación hacia las terminales.
+
+  - Evidencias clave:
+  
+    - 12-04 Conexión a terminal speedface por medio de cable ethernet a la dirección IP 0.0.0.0.
+
+    
